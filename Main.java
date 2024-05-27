@@ -25,11 +25,7 @@ public class Main {
     private static Map<String, Integer> wordFrequency;
 
     public static void main(String[] args) {
-<<<<<<< HEAD
-        // 实验要求main函数接收用户输入文件，生成图，并允许用户选择后续各项功能wofd
-=======
-        // 实验要求main函数接收用户输入文件，生成图，并允许用户选择后续各项功能的
->>>>>>> C4
+        // 实验要求main函数接收用户输入文件，生成图，并允许用户选择后续各项功能
         if (args.length > 0) {
             // args[0] 是第一个参数，这里我们假设它是一个文件名
             String fileName = args[0];
